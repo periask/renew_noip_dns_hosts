@@ -1,1 +1,1 @@
-# renew_noip_dns_hosts
+# Renew my noip dynamic dns hosts
